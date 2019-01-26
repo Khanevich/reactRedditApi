@@ -1,0 +1,21 @@
+    .user-list {
+            display: 'flex';
+            flex-direction: 'row';
+            flex-wrap: 'wrap';
+    }
+
+    .user-body {
+            display: 'flex';
+            flex-direction: 'row';
+            flex-wrap: 'wrap';
+            background-color: brown
+    }
+
+    .root {
+            width: 300,
+    }
+
+    .slider {
+            padding: '22px 0px',
+    }
+
